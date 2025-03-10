@@ -1,0 +1,8 @@
+require("plugins.fugitive")
+require("plugins.harpoon")
+require("plugins.kanagawa")
+require("plugins.lsp")
+require("plugins.lualine")
+require("plugins.neotree")
+require("plugins.telescope")
+require("plugins.treesitter")
