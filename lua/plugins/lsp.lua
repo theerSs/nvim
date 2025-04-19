@@ -34,7 +34,6 @@ require('mason-lspconfig').setup({
       'docker_compose_language_service',
       'dockerls', 
       'graphql', 
-      'csharp_ls',
       'marksman',
       'html',
       'jsonls',
