@@ -38,7 +38,8 @@ require('mason-lspconfig').setup({
       'marksman',
       'html',
       'jsonls',
-      'typos_lsp'
+      'typos_lsp',
+      'biome',
   },
   handlers = {
     lsp_zero.default_setup,
