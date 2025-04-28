@@ -24,8 +24,6 @@ require('lazy').setup({
       tag = '0.1.8',
       dependencies = { 'nvim-lua/plenary.nvim' },
     },
-  
-    'OmniSharp/omnisharp-vim',
     -- Kanagawa
     'rebelot/kanagawa.nvim',
   

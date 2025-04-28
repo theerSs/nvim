@@ -40,6 +40,8 @@ require('mason-lspconfig').setup({
       'jsonls',
       'typos_lsp',
       'biome',
+      'volar',
+      'svelte'
   },
   handlers = {
     lsp_zero.default_setup,
