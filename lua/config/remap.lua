@@ -1,5 +1,4 @@
 vim.g.mapleader = " "
-vim.keymap.set("n", "<leader>pv", vim.cmd.Neotree)
 vim.keymap.set("n", "<C-a>", "ggVG")
 -- Allows to move marked blocks of code
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
